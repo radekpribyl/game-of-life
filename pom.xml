@@ -15,8 +15,10 @@
         <!-- A workaround for a bug in PMD -->
         <targetJdk>1.6</targetJdk>
         <github.account>radekpribyl</github.account>
+		<!--
         <thucydides.version>0.9.107</thucydides.version>
-        <jelastic.context>gameoflife</jelastic.context>
+        -->
+		<jelastic.context>gameoflife</jelastic.context>
         <jelastic.environment>wakaleo</jelastic.environment>
     </properties>
 
